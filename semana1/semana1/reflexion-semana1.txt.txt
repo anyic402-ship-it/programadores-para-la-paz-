@@ -1,0 +1,3 @@
+reflexion-semana1.txt
+
+El uso responsable de la información en internet es fundamental para ejercer una ciudadanía digital consciente y ética. Cuando las personas verifican la información antes de compartirla, contribuyen a una participación ciudadana informada y evitan la desinformación. Además, herramientas como Git permiten organizar el trabajo técnico de manera clara y transparente. Git ayuda a registrar cambios, trabajar en equipo y asumir responsabilidad sobre lo que se publica. Así como en la ciudadanía digital se debe actuar con respeto, en el trabajo técnico también se requiere orden y compromiso. Ambas prácticas fomentan la colaboración, la confianza y el aprendizaje responsable en entornos digitales
