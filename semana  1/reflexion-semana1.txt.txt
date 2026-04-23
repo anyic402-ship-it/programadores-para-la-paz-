@@ -1,0 +1,8 @@
+  El uso responsable de la información en internet es importante porque nos ayuda a compartir contenidos verdaderos y confiables.
+Esto fortalece la participación ciudadana, ya que permite opinar y actuar con respeto y fundamento.
+Cuando verificamos la información, evitamos la desinformación y contribuimos a una mejor convivencia digital.
+La organización del trabajo técnico también se relaciona con esta responsabilidad.
+Herramientas como Git permiten ordenar los archivos y los cambios de manera clara y transparente.
+Así, cada persona sabe qué se hizo, cuándo y por quién.
+Esto fomenta el trabajo colaborativo y la responsabilidad individual.
+En conjunto, el uso ético de la información y la buena organización técnica mejoran el trabajo en equipo y la participación en la sociedad digital.
